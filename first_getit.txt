@@ -1,0 +1,28 @@
+# Practice
+#commenting in Python is the # 
+
+# example interger
+#thier is no true types of intergers
+#example of how to assign a value:
+#hi=3
+
+
+#print and interger
+echo "1234"
+
+#print word
+echo "Word
+
+#Remove something
+rm Crazy
+
+
+
+
+
+
+
+
+
+
+
